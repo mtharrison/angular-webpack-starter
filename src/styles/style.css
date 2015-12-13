@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+}
+
+body {
+    background: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.module {
+    background: #fff;
+}
+
+.cell { height: 500px;}

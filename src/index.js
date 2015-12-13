@@ -1,3 +1,7 @@
+// Load styles
+
+require('./styles/style.css');
+
 // Load modules
 
 import MyApp from './modules/MyApp';
